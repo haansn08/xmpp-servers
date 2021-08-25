@@ -24,6 +24,7 @@ chat.savali.me
 chat.sum7.eu
 chatserver.space
 chatterboxtown.us
+chatpointcharly.de 
 chinwag.im
 cock.li
 conversations.im
@@ -114,7 +115,9 @@ suchat.org
 suchtbasis.de
 sure.im
 strong.pm
+schwatzi.de 
 tchncs.de
+takechat.de 
 thesecure.biz
 tigase.im
 trashserver.net
