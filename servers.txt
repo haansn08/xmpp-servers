@@ -72,7 +72,6 @@ jix.im
 jwchat.org
 kde.org
 kitsune.one
-kode.im
 konuro.net
 i2p.rocks
 laberzentrale.de
