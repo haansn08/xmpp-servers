@@ -125,6 +125,7 @@ vipclub.pm
 vlibra.ru
 wiuwiu.de
 xabber.org
+xmpp.076.ne.jp
 xmpp.chat
 xmpp.cloud
 xmpp.co
