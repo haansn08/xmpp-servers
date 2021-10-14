@@ -15,6 +15,7 @@ arcipelago.ml
 anonym.im
 anoxinon.me
 blabber.im
+blabberbase.eu
 blah.im
 c99x.cc
 c99x.io
@@ -25,6 +26,7 @@ chat.sum7.eu
 chatserver.space
 chatterboxtown.us
 chatpointcharly.de 
+chatpointcharly.eu
 chinwag.im
 cock.li
 conversations.im
@@ -68,6 +70,7 @@ jabberx.cc
 jabberx.ru
 jabbxi.de
 jabjab.de
+jabtrix.net
 jix.im
 jwchat.org
 kde.org
@@ -91,6 +94,7 @@ netwhood.online
 niel.site
 ninja.im
 nixnet.xyz
+no-bullchat.net
 nologs.club
 omemo.im
 otr.im
@@ -120,6 +124,7 @@ takechat.de
 thesecure.biz
 tigase.im
 trashserver.net
+twaddly.eu
 verified.pm
 vipclub.pm
 vlibra.ru
