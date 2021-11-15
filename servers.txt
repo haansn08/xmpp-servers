@@ -94,7 +94,7 @@ neko.im
 netwhood.online
 niel.site
 ninja.im
-nixnet.xyz
+nixnet.services
 no-bullchat.net
 nologs.club
 omemo.im
