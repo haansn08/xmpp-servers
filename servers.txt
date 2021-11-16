@@ -81,6 +81,7 @@ laberzentrale.de
 lethyro.net
 lightwitch.org
 lime2.su
+linux.monster
 linuxcult.net
 linuxlovers.at
 magicbroccoli.de
@@ -93,7 +94,7 @@ neko.im
 netwhood.online
 niel.site
 ninja.im
-nixnet.xyz
+nixnet.services
 no-bullchat.net
 nologs.club
 omemo.im
@@ -102,9 +103,11 @@ og.im
 pad7.de
 pad7.net
 quicksy.im
+paranoid.network
 parloteo.es
 planetjabber.de
 pimux.de
+pwned.life
 renntwiesau.de
 riseup.net
 sqli.io 
